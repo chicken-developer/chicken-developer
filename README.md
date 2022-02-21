@@ -74,7 +74,7 @@
   </p>
 
   <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=nguyenary&label=Profile+Views" alt="chicken-developer" />
+      <img src="https://komarev.com/ghpvc/?username=chicken-developer&label=Profile+Views" alt="chicken-developer" />
   </p>
 </p>
 
