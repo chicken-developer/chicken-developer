@@ -2,47 +2,60 @@
 
 <h3 align="center">Fullstack Game Developer</h3>
 
-<p align="center">
-  <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
-    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
-  </em> 
-  <br>
-  <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
-</p>
-
+<h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
+<a href="#" target="_blank">
+  <img src="images/quotes.svg" width="846" height="150" alt="ChickenDeveloper" />
+</a>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="./images/profile_dev.svg" />
 
-### <img src="./images/stats.gif" width="30px"> ***About Me***
 
 * 🌱 I'm learning ***Scala*** and ***Akka Toolkit*** 😍
 * 🏆 I usually work with ***C++ & Scala language***
 * 📫 Ask me anything you want [**here**](https://github.com/chicken-developer/chicken-developer/issues), If I were alive, I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-
-### ***🛠 Tools & Technologies***
-
-![Scala](https://img.shields.io/badge/-Scala-05122A?style=flat&logo=Scala)&nbsp;
-![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
-![Yarn](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;\
-![Google Keep](https://img.shields.io/badge/-Google%20Keep-05122A?style=flat&logo=googlekeep)&nbsp;
-![Microsoft OneNote](https://img.shields.io/badge/-Microsoft%20OneNote-05122A?style=flat&logo=microsoftonenote)&nbsp;
-![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
-![Skype](https://img.shields.io/badge/-Skype-05122A?style=flat&logo=skype)&nbsp;
-![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;
+<!-- https://simpleicons.org/ -->
+<span><img src="https://img.shields.io/badge/C++-282C34?logo=Cplusplus&logoColor=1572B6" alt="Cplusplus logo" title="Cplusplus" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=FF0000" alt="Scala logo" title="Scala" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/F%20Sharp-282C34?logo=fsharp&logoColor=4FC08D" alt="F# logo" title="F#" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/OOP-282C34?logo=github&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Unreal%20Engine-282C34?logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine logo" title="UnrealEngine" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Cocos2Dx-282C34?logo=cocos" alt="cocos logo" title="Cocos" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Akka%20Toolkit-282C34?logo=fsharp&logoColor=4FC08D" alt="Akka logo" title="Akka" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Cats%20&%20Cat%20Effect-282C34?logo=fsharp&logoColor=4FC08D" alt="Cat logo" title="Cat" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Zio-282C34?logo=fsharp&logoColor=4FC08D" alt="Zio logo" title="Zio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/JetBrains%20Toolbox-282C34?logo=jetbrains" alt="Jetbrains logo" title="Jetbrains" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=38B2AC" alt="Vim" title="Vim" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
 
 <br>
 
