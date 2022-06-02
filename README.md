@@ -12,11 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=FF0000" alt="Scala logo" title="Scala" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/F%20Sharp-282C34?logo=fsharp&logoColor=4FC08D" alt="F# logo" title="F#" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Object%20Oriented%20Programming-282C34?logo=fsharp&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/FSharp-282C34?logo=fsharp&logoColor=4FC08D" alt="F# logo" title="F#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unreal%20Engine-282C34?logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine logo" title="UnrealEngine" height="25" /></span>
 &nbsp;
@@ -32,7 +28,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Akka%20Toolkit-282C34?logo=fsharp&logoColor=4FC08D" alt="Akka logo" title="Akka" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Apache Kafka-282C34?logo=apache-kafka&logoColor=000000" alt="Kafka logo" title="kafka" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Kafka-282C34?logo=apache-kafka&logoColor=000000" alt="Kafka logo" title="kafka" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Spark-282C34?logo=apache-spark&logoColor=FFA500" alt="Spark logo" title="kafka" height="25" /></span>
 &nbsp;
@@ -51,6 +47,10 @@
 <span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=38B2AC" alt="Vim" title="Vim" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Object%20Oriented%20Programming-282C34?logo=fsharp&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
 &nbsp;
 
 <br>
