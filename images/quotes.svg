@@ -17,13 +17,13 @@
           line-height: 1.6;
 				}
         .quotes-eng {
-          font-size: 16px;
+          font-size: 17px;
         }
         .quotes-vi {
-          font-size: 16px;
+          font-size: 17px;
         }
         .chickendev-signature {
-          font-size: 14px;
+          font-size: 15px;
         }
 			</style>
 
