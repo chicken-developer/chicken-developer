@@ -17,19 +17,19 @@
           line-height: 1.6;
 				}
         .quotes-eng {
-          font-size: 18px;
+          font-size: 16px;
         }
         .quotes-vi {
-          font-size: 18px;
+          font-size: 16px;
         }
         .chickendev-signature {
-          font-size: 16px;
+          font-size: 14px;
         }
 			</style>
 
 			<div class="container">
         <div class="quotes-eng">"A developer who does not spend time with his code can never be a real developer"</div>
-        <div class="quotes-vi">"Lập trình viên không dành thời gian cho code, không bao giờ có thể trở thành lập trình thực sự."</div>
+        <div class="quotes-vi">"Một lập trình viên không dành thời gian cho code, không bao giờ có thể trở thành lập trình viên thực sự."</div>
         <div class="chickendev-signature">-ChickenDeveloper - TheChickenFather-</div>
       </div>
 		</div>
