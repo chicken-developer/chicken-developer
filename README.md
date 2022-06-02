@@ -1,19 +1,9 @@
-![alt text](./images/header.svg)
 
-<h3 align="center">Fullstack Game Developer</h3>
-
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<h2 align="center">📑 Fullstack Game Developer 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="images/quotes.svg" width="846" height="150" alt="ChickenDeveloper" />
 </a>
-
-
-
-* 🌱 I'm learning ***Scala*** and ***Akka Toolkit*** 😍
-* 🏆 I usually work with ***C++ & Scala language***
-* 📫 Ask me anything you want [**here**](https://github.com/chicken-developer/chicken-developer/issues), If I were alive, I would reply within seconds 😉
-* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -26,7 +16,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/OOP-282C34?logo=github&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Object%20Oriented%20Programming-282C34?logo=fsharp&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unreal%20Engine-282C34?logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine logo" title="UnrealEngine" height="25" /></span>
 &nbsp;
@@ -54,7 +44,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=38B2AC" alt="Vim" title="Vim" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
 
 <br>
@@ -91,4 +81,3 @@
   </p>
 </p>
 
-![alt text](./images/footer.svg)
