@@ -12,6 +12,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=FF0000" alt="Scala logo" title="Scala" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=csharp" alt="CSharp logo" title="CSharp" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/FSharp-282C34?logo=fsharp&logoColor=4FC08D" alt="F# logo" title="F#" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Unreal%20Engine-282C34?logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine logo" title="UnrealEngine" height="25" /></span>
@@ -49,8 +51,6 @@
 <span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Object%20Oriented%20Programming-282C34?logo=fsharp&logoColor=FFFFFF" alt="OOP logo" title="OOP" height="25" /></span>
 &nbsp;
 
 <br>
