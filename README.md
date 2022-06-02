@@ -24,11 +24,17 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Cocos2Dx-282C34?logo=cocos" alt="cocos logo" title="Cocos" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Cassandra-282C34?logo=apache-cassandra" alt="Cassandra logo" title="Cassandra" height="25" /></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Akka%20Toolkit-282C34?logo=fsharp&logoColor=4FC08D" alt="Akka logo" title="Akka" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Apache Kafka-282C34?logo=apache-kafka&logoColor=000000" alt="Kafka logo" title="kafka" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Spark-282C34?logo=apache-spark&logoColor=FFA500" alt="Spark logo" title="kafka" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Cats%20&%20Cat%20Effect-282C34?logo=fsharp&logoColor=4FC08D" alt="Cat logo" title="Cat" height="25" /></span>
 &nbsp;
