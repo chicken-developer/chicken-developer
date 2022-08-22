@@ -12,17 +12,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Scala-282C34?logo=Scala&logoColor=FF0000" alt="Scala logo" title="Scala" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C%20Sharp-282C34?logo=csharp" alt="CSharp logo" title="CSharp" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/FSharp-282C34?logo=fsharp&logoColor=4FC08D" alt="F# logo" title="F#" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Unreal%20Engine-282C34?logo=unrealengine&logoColor=FFFFFF" alt="Unreal Engine logo" title="UnrealEngine" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Unity-282C34?logo=unity&logoColor=FFFFFF" alt="Unity logo" title="Unity" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Cocos2Dx-282C34?logo=cocos" alt="cocos logo" title="Cocos" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Cassandra-282C34?logo=apache-cassandra" alt="Cassandra logo" title="Cassandra" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
@@ -30,25 +20,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Akka%20Toolkit-282C34?logo=fsharp&logoColor=4FC08D" alt="Akka logo" title="Akka" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Kafka-282C34?logo=apache-kafka&logoColor=000000" alt="Kafka logo" title="kafka" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Spark-282C34?logo=apache-spark&logoColor=FFA500" alt="Spark logo" title="kafka" height="25" /></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/Cats%20&%20Cat%20Effect-282C34?logo=fsharp&logoColor=4FC08D" alt="Cat logo" title="Cat" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Zio-282C34?logo=fsharp&logoColor=4FC08D" alt="Zio logo" title="Zio" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Visual%20Studio-282C34?logo=visual-studio" alt="Visual Studio logo" title="Visual Studio" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/JetBrains%20Toolbox-282C34?logo=jetbrains" alt="Jetbrains logo" title="Jetbrains" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Vim-282C34?logo=vim&logoColor=38B2AC" alt="Vim" title="Vim" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Functional%20Programming-282C34?logo=haskell&logoColor=FFFFFF" alt="FP logo" title="FP" height="25" /></span>
 &nbsp;
